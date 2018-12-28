@@ -1,1 +1,4 @@
-this is the first file added the contant in my local repo file
+#!/bin/bash
+echo "datta Raju kanchari project"
+date
+ls -ltra 
