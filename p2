@@ -1,1 +1,4 @@
-hi...this is pradeep p2 file
+*!/bin/bash
+echo"datta Raju kanchari project"
+date
+ls
