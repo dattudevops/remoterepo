@@ -1,4 +1,5 @@
 #!/bin/bash
-echo"datta Raju kanchari project"
+echo "datta Raju kanchari project"
 date
-ls
+ls -ltra 
+
