@@ -1,5 +1,4 @@
-#!/bin/sh
-date 
-pwd
-ls
-pwd
+#!/bin/bash
+echo "datta Raju kanchari project"
+date
+ls -ltra 
