@@ -1,4 +1,1 @@
-#!/bin/sh
-ls
-pwd
-eccho "datta Raju"
+ec2 cloud: 'AWSslave', template: 'mum'
