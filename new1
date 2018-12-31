@@ -1,1 +1,10 @@
-ec2 cloud: 'AWSslave', template: 'mum'
+pipeline {
+    agent { docker { image 'mum' } }
+    stages {
+        stage('build') {
+            steps {
+                sh 'npm --version'
+            }
+        }
+    }
+}
