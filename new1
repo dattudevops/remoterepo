@@ -1,4 +1,7 @@
 #!/bin/sh
 ls
 pwd
-eccho "datta Raju"
+echo "datta Raju"
+Date 
+cal
+pwd
