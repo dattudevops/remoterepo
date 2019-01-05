@@ -2,3 +2,6 @@
 echo "datta Raju kanchari project"
 date
 ls -ltra 
+pwd
+ls
+cal
