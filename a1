@@ -6,3 +6,5 @@ pwd
 ls
 cal
 touch a1 a2
+echo "updated file"
+
