@@ -5,3 +5,4 @@ ls -ltra
 pwd
 ls
 cal
+touch a1 a2
